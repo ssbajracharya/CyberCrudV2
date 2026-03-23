@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CyberCrud.ConsoleApp/CyberCrud.ConsoleApp.csproj" />
+  <Project Path="CyberCrud.Data/CyberCrud.Data.csproj" />
+  <Project Path="CyberCrud.Domain/CyberCrud.Domain.csproj" />
+</Solution>
